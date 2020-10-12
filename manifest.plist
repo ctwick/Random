@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/ctwick/Random/master/image512.jpg
 				<key>bundle-identifier</key>
 				<string>com.eag.virtusa.checkin</string>
 				<key>bundle-version</key>
-				<string>1.2.4</string>
+				<string>1.2.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
